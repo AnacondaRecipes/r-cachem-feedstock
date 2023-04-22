@@ -57,7 +57,7 @@ about:
 
 extra:
   recipe-maintainers:
-    - conda-forge/r
+    - ianaobi
 
 # Package: cachem
 # Version: 1.0.1
